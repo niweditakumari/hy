@@ -2,7 +2,7 @@ $bg: #11111b;
 $red: #ff9f67;
 $green: #afd33d;
 $blue: #1122ff;
-$text: $red;
+$text: $black;
 
 @function font($to, $from, $toWidth, $fromWidth) {
     $slope: ($to - $from) / ($toWidth - $fromWidth);
